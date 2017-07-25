@@ -1,0 +1,15 @@
+{
+  "name": "ethereum-test",
+  "version": "0.0.0",
+  "description": "An ethereum experiment",
+  "main": "index.js",
+  "repository": "",
+  "dependencies": {
+    "ethers": "^2.1.2",
+    "ethers-wallet": "^2.1.2",
+    "express": "^3.2.6",
+    "socket.io": "~0.9.14",
+    "solc": "^0.4.17",
+    "web3": "^1.0.0-beta.23"
+  }
+}
